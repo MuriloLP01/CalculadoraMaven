@@ -1,0 +1,1 @@
+Olá. Este projeto faz parte do curso de Web Developer da Digital House. Ele consiste em uma calculadora usando Java, maven e tomcat.
